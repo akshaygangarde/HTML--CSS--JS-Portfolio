@@ -3392,7 +3392,7 @@ body.is-preload #wrapper.fade-in:before {
 /* Intro */
 
 #intro {
-  color: #ffffff;
+  color: rgb(240, 230, 140);
   padding: 8rem 4rem 6rem 4rem;
   -moz-align-items: center;
   -webkit-align-items: center;
