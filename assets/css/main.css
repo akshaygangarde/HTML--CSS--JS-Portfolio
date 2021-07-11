@@ -3338,7 +3338,7 @@ table.alt tbody tr td {
   background-color: #212931;
   background-image: url("../../images/overlay.png"),
     linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url("../../images/alexandra-nicolae-6elNtGvY2S0-unsplash.jpg");
+    url("../../images/bg.jpg");
   background-size: auto, auto, 100% auto;
   background-position: center, center, top center;
   background-repeat: repeat, no-repeat, no-repeat;
@@ -3413,6 +3413,7 @@ body.is-preload #wrapper.fade-in:before {
   text-align: center;
   z-index: 1;
   min-height: 100vh;
+  background-color: #1e252d;
 }
 
 #intro input,
@@ -3877,7 +3878,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 /* Main */
 
 #main {
-  background-color: rgba(255, 255, 0, 0.705);
+  background-color: rgba(255, 255, 255, 0.705);
   position: relative;
   margin: 0 auto;
   width: calc(100% - 4rem);
